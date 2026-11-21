@@ -1,1 +1,20 @@
-<header>header</header>
+---
+import monogram from "../assets/monograma_AC.svg";
+---
+
+<header class="flex justify-between items-center w[1120px] p-3 border-b-2">
+    <div class="flex justify-center items-center gap-2">
+        <img
+            src={monogram.src}
+            class="w-12 h-12 rounded-full"
+            alt="portfolio logo"
+        />
+        <div class="border-l-2 ps-2">Andrea Clavijo</div>
+    </div>
+    <nav class="flex justify-center items-center gap-12">
+        <a href="/home">Home</a>
+        <a href="/about">About</a>
+        <a href="/projects">Projects</a>
+        <a href="/contact">Contact</a>
+    </nav>
+</header>

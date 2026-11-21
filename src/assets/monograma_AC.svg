@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 110" role="img" aria-labelledby="title">
+  <title id="title">AC</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 88 L59 18 L100 88 M38 57 H80" stroke="#18373C" stroke-width="9"/>
+    <path d="M151 29 C139 17 124 13 109 19 C91 26 81 43 81 58 C81 75 94 91 111 96 C126 100 141 95 152 84" stroke="#35585E" stroke-width="9"/>
+  </g>
+</svg>
